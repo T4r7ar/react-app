@@ -1,0 +1,40 @@
+.opt-bg {
+          background-image: url(../img/background/CTAImg.png);
+          background-repeat: no-repeat;
+          background-size: cover;
+          height: 588px;
+
+          display: flex;
+          align-items: center;
+          justify-content: center;
+}
+
+.opt-content {
+          color: white;
+          text-align: center;
+}
+
+.opt-text {
+          margin-bottom: 32px;
+}
+
+.opt-text h1 {
+          font-size: 40px;
+          font-weight: 900;
+          letter-spacing: 0.5px;
+}
+
+
+@media screen and (min-width: 745px) and (max-width: 1024px) {
+
+}
+@media screen and (min-width: 375px) and (max-width: 744px) {
+          .opt-bg {
+                    height: 500px;
+          }
+}
+@media screen and (max-width: 375px) {
+          .opt-bg {
+                    height: 500px;
+          }
+}

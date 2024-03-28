@@ -1,0 +1,54 @@
+body{
+    font-family: "inter", sans-serif;
+    margin: 0;
+}
+
+
+.container {
+    margin: 0 165px;
+}
+
+.button-black {
+    padding: 14px 24px;
+    border-radius: 32px;
+    background-color: black;
+    color: white;
+    font-family: "inter", sans-serif;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.button-white {
+    padding: 8px 16px;
+    border-radius: 32px;
+    background-color: white;
+    color: black;
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.mobile-button {
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 30px;
+    border-radius: 50%;
+    padding: 0 8px;
+    cursor: pointer;
+}
+
+@media screen and (min-width: 745px) and (max-width: 1024px) {
+    .container {
+        margin: 0 32px;
+    }
+}
+@media screen and (max-width: 744px) {
+    .container {
+        margin: 0 24px;
+    }
+}
+

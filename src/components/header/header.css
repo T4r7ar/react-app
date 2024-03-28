@@ -1,0 +1,33 @@
+.header {
+    height: 96px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-nav ul{
+    display: flex;
+    padding: 0;
+    column-gap: 24px;
+    list-style-type: none;
+}
+
+.header-logo {
+    cursor: pointer;
+}
+
+
+@media screen and (max-width: 375px) {
+    .header {
+        height: 66px;
+    }
+
+    .header-nav {
+        display: none;
+    }
+
+    .header-logo img {
+        width: 72px;
+        height: 19px;
+    }
+}
