@@ -28,12 +28,12 @@
 @media screen and (min-width: 745px) and (max-width: 1024px) {
 
 }
-@media screen and (min-width: 375px) and (max-width: 744px) {
+@media screen and (min-width: 381px) and (max-width: 744px) {
           .opt-bg {
                     height: 500px;
           }
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 380px) {
           .opt-bg {
                     height: 500px;
           }

@@ -118,7 +118,7 @@
                     padding: 5px 100px;
           }
 }
-@media screen and (min-width: 375px) and (max-width: 744px) {
+@media screen and (min-width: 381px) and (max-width: 744px) {
           .footer {
                     display: block;
                     padding: 20px 0;
@@ -145,7 +145,7 @@
                     padding: 5px 100px;
           }
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 380px) {
           
           .footer {
                     display: block;

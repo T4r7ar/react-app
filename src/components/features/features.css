@@ -44,7 +44,7 @@
                     padding: 39px 0;
           }
 }
-@media screen and (min-width: 375px) and (max-width: 744px) {
+@media screen and (min-width: 381px) and (max-width: 744px) {
           
           .features {
                     display: block;
@@ -59,7 +59,7 @@
                     justify-content: center;
           }
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 380px) {
           .features {
                     display: block;
                     text-align: center;
