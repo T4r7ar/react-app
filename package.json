@@ -2,7 +2,7 @@
   "name": "ai_academy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://T4r7ar.github.io/first-react",
+  "homepage": "https://T4r7ar.github.io/react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
