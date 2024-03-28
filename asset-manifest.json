@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.4b671c2f.css",
+    "main.js": "/react-app/static/js/main.1b4c4eec.js",
+    "static/media/CTAImg.png": "/react-app/static/media/CTAImg.6590dc13e75dd93457b0.png",
+    "static/media/SSImg-1024px.png": "/react-app/static/media/SSImg-1024px.3b2f5ec3d666bda416b3.png",
+    "static/media/secondSectionImg.png": "/react-app/static/media/secondSectionImg.0850b6d3d41d47374211.png",
+    "static/media/Image.svg": "/react-app/static/media/Image.2df34528dcb96350e42b06d0cffe3fcb.svg",
+    "static/media/heroimg-1024px.png": "/react-app/static/media/heroimg-1024px.eb64be02aa101b61d129.png",
+    "static/media/heroImg.png": "/react-app/static/media/heroImg.be7df4b80eecd3402323.png",
+    "static/media/twitter-icon.svg": "/react-app/static/media/twitter-icon.f4b63ac121d8a93d10e9382a65c2ce63.svg",
+    "static/media/facebook-icon.svg": "/react-app/static/media/facebook-icon.858f1df12d5f2712f0bbde86473320be.svg",
+    "index.html": "/react-app/index.html",
+    "static/media/send-icon.svg": "/react-app/static/media/send-icon.861a3e53c94b7f79844556b243856fe5.svg",
+    "main.4b671c2f.css.map": "/react-app/static/css/main.4b671c2f.css.map",
+    "main.1b4c4eec.js.map": "/react-app/static/js/main.1b4c4eec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b671c2f.css",
+    "static/js/main.1b4c4eec.js"
+  ]
+}
